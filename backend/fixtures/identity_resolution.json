@@ -1,0 +1,22 @@
+[
+  {
+    "camera_id": "cam-01",
+    "timestamp": "2024-06-01T10:04:00Z",
+    "student_id": "student-105",
+    "engagement_score": 0.88,
+    "confidence": 0.90,
+    "source": "front_camera",
+    "spatial_x": 12.5,
+    "spatial_y": 45.0
+  },
+  {
+    "camera_id": "cam-02",
+    "timestamp": "2024-06-01T10:04:02Z",
+    "student_id": "raw-desk-05",
+    "engagement_score": 0.86,
+    "confidence": 0.85,
+    "source": "side_camera",
+    "spatial_x": 13.0,
+    "spatial_y": 46.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "camera_id": "cam-01",
+    "timestamp": "2024-06-01T10:00:00Z",
+    "student_id": "student-101",
+    "engagement_score": 0.82,
+    "confidence": 0.92,
+    "source": "front_camera"
+  },
+  {
+    "camera_id": "cam-01",
+    "timestamp": "2024-06-01T10:00:05Z",
+    "student_id": "student-101",
+    "engagement_score": 0.85,
+    "confidence": 0.94,
+    "source": "front_camera"
+  },
+  {
+    "camera_id": "cam-01",
+    "timestamp": "2024-06-01T10:00:10Z",
+    "student_id": "student-101",
+    "engagement_score": 0.88,
+    "confidence": 0.95,
+    "source": "front_camera"
+  }
+]
